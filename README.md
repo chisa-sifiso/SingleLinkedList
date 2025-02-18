@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1>Linked List Java Project</h1>
-        <p><strong>Author:</strong> Sifiso</p>
+        <p><strong>Developer:</strong> Sifiso vinjwa</p>
         <p><strong>Description:</strong> This project implements a simple linked list in Java, allowing elements to be inserted at the end of the list.</p>
         
 <h2>Project Structure</h2>
